@@ -1,0 +1,7 @@
+.firebase/
+.vscode/
+firebase-debug.log
+*.log
+node_modules/
+.DS_Store
+Thumbs.db
